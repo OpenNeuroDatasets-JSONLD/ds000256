@@ -1,0 +1,2 @@
+32	vc40056.MR.head_GREENE.4.1.20150811.173855.6q9yfn.dcm	4-T2 weighted	CTS230	-	-	256	256	32	1	6.8	84.0	T2 weighted	False	False	vc40056	head^GREENE		T2 weighted	*tse2d1_17	('ORIGINAL', 'PRIMARY', 'M', 'ND', 'NORM')	.	034Y	F	20150811
+288	vc40056.MR.head_GREENE.23.1.20150811.173855.1ydhpuj.dcm	23-Mprage	CTS230	-	-	256	256	256	1	2.4	3.12	Mprage	False	False	vc40056	head^GREENE		Mprage	*tfl3d1_ns	('ORIGINAL', 'PRIMARY', 'M', 'ND', 'NORM')	.	034Y	F	20150811
