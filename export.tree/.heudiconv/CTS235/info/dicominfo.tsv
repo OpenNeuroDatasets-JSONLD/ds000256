@@ -1,2 +1,0 @@
-32	vc40122.MR.head_GREENE.4.1.20150822.092859.1gi65je.dcm	4-T2 weighted	CTS235	-	-	256	256	32	1	6.8	84.0	T2 weighted	False	False	vc40122	head^GREENE		T2 weighted	*tse2d1_17	('ORIGINAL', 'PRIMARY', 'M', 'ND', 'NORM')	.	034Y	M	20150822
-288	vc40122.MR.head_GREENE.9.1.20150822.092859.1mzl9hp.dcm	9-Mprage	CTS235	-	-	256	256	256	1	2.4	3.12	Mprage	False	False	vc40122	head^GREENE		Mprage	*tfl3d1_ns	('ORIGINAL', 'PRIMARY', 'M', 'ND', 'NORM')	.	034Y	M	20150822
